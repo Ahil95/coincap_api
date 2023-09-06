@@ -1,0 +1,8 @@
+.header{
+    background-image: linear-gradient(to right, #4053B7 , #64B4F5);
+
+    width: 100%;
+    height: 25vh;
+    margin-top:5%;
+    /* position: absolute; */
+}
